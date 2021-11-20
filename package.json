@@ -1,0 +1,23 @@
+{
+  "name": "planetary-app",
+  "version": "1.0.0",
+  "description": "initial planetary app package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u0016\u0016https://github.com/vctrjrvs/planetary-app.git"
+  },
+  "keywords": [
+    "planetary",
+    "the",
+    "incoherent"
+  ],
+  "author": "tory jarvis",
+  "license": "ISC",
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.1.8"
+  }
+}
